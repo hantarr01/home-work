@@ -1,6 +1,6 @@
 <?php 
 
-namespace ClassTwo;
+namespace Class2;
 
 class ClassTwo{
 	function pressF2(){

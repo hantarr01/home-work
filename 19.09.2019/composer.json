@@ -1,0 +1,8 @@
+{
+    "name": "admin/19.09.2019",
+    "require": {},
+    "autoload": {
+    	"ClassOne\\": "index1/",
+    	"ClassTwo\\": "index2/"
+    }
+}

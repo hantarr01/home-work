@@ -1,10 +1,10 @@
 <?php
 
-include 'ClassOne/index1.php';
-include 'ClassTwo/index2.php';
+// include 'ClassOne/index1.php';
+// include 'ClassTwo/index2.php';
 
-use ClassOne\ClassOne;
-use ClassTwo\ClassTwo;
+use ClassOne\index1;
+use ClassTwo\index2;
 
 class First extends ClassOne{
 
